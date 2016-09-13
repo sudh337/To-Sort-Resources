@@ -14,4 +14,6 @@ http://pastebin.com/u/joemccray   #Strategicsec CEO's pastebin account. Lot of t
 
 https://www.youtube.com/user/j0emccray/playlists    #Strategicsec CEO's YouTube account. Lot of training resources.
 
+http://archive.hack.lu/ #HackLu Confernece Archives
+
 
